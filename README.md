@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KennyTF22
+- 👋 Hi, I’m @Kenny
   👀 I’m interested in ...
       Python for Data Science, Exploratory Data Analysis, Business Intelligence with PowerBi, Oracle DB
 - 🌱 I’m currently learning Data Science 
